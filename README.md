@@ -11,6 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.instagram.com/ilkerru" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="ilkerru" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/ilker-u-0a0a2b35/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
